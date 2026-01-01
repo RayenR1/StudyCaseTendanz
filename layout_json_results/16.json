@@ -1,0 +1,19 @@
+{
+    "image": "16.png",
+    "dimensions": {
+        "width": 2481,
+        "height": 3508
+    },
+    "table_found": true,
+    "cells": [
+        {
+            "type": "header",
+            "box": [
+                118,
+                242,
+                2363,
+                526
+            ]
+        }
+    ]
+}

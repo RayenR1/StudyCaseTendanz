@@ -1,0 +1,37 @@
+{
+    "image": "1.png",
+    "dimensions": {
+        "width": 2481,
+        "height": 3508
+    },
+    "table_found": true,
+    "cells": [
+        {
+            "type": "header",
+            "box": [
+                134,
+                3165,
+                253,
+                3284
+            ]
+        },
+        {
+            "type": "header",
+            "box": [
+                138,
+                3172,
+                248,
+                3229
+            ]
+        },
+        {
+            "type": "cell",
+            "box": [
+                138,
+                3230,
+                248,
+                3277
+            ]
+        }
+    ]
+}

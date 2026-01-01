@@ -1,0 +1,28 @@
+{
+    "image": "14.png",
+    "dimensions": {
+        "width": 2481,
+        "height": 3508
+    },
+    "table_found": true,
+    "cells": [
+        {
+            "type": "header",
+            "box": [
+                118,
+                593,
+                1216,
+                869
+            ]
+        },
+        {
+            "type": "cell",
+            "box": [
+                1265,
+                2095,
+                2363,
+                3243
+            ]
+        }
+    ]
+}

@@ -108,6 +108,6 @@ dmypy.json
 Thumbs.db
 
 # Project specific
-backup_*.json
+#backup_*.json
 debug_*.png
-extraction_*.json
+#extraction_*.json

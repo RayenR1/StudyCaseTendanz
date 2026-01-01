@@ -1,0 +1,1088 @@
+{
+    "metadata": {
+        "assureur": "SOCIETE GENERALE Assurances",
+        "nom_produit": "Conditions Générales Assurance Habitation",
+        "reference_contrat": "Réf. D 190 315 - 01/2024",
+        "version": "01/2024",
+        "pages_analysees": [
+            1,
+            2,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    "preambule": "Les honoraires d'avocat sont pris en charge par procédure pour un avocat unique, incluant les frais de gestion habituels. Les plafonds de garantie sont ajustables en fonction du taux de TVA applicable. L'Assureur se subroge dans les droits de l'Assuré pour le recouvrement des sommes versées aux tiers responsables (honoraires d'experts, avocats, etc.) dans les limites des plafonds et des règles légales. En cas de désaccord sur une proposition d'indemnisation ou la gestion d'une action, l'Assuré peut saisir le Tribunal Judiciaire. Les frais d'expertise sont couverts dans les limites des plafonds. Le Président du Tribunal peut juger une démarche abusive. Une consultation tierce désignée est couverte jusqu'à 250 € TTC. Cette section fournit les informations de contact pour toute demande d'information, modification de contrat ou situation personnelle. Elle détaille également les procédures de déclaration en cas de sinistre et d'urgence.",
+    "definitions": [
+        {
+            "terme": "Mesures de sauvetage, de secours et de protection du bâtiment sinistré",
+            "definition": "Ensemble des actions visant à limiter les dommages suite à un sinistre (ex: pompage, étayage, déblaiement). Inclut également les frais de démolition, de relogement et de réaménagement."
+        },
+        {
+            "terme": "Frais nécessaires pour la recherche des fuites",
+            "definition": "Coût des opérations d'identification de l'origine de fuites au sein des biens immobiliers privés."
+        },
+        {
+            "terme": "Frais de clôture provisoire",
+            "definition": "Coût de la mise en sécurité temporaire d'un local endommagé par un incendie ou un dégât des eaux, afin d'éviter d'autres dommages."
+        },
+        {
+            "terme": "Frais de décontamination à la suite d'un attentat ou d'un acte de terrorisme",
+            "definition": "Coûts de décontamination requis après un attentat ou un acte de terrorisme."
+        }
+    ],
+    "garanties": [
+        {
+            "nom_garantie": "Détériorations suite à vol",
+            "description": "Couverture des détériorations immobilières ou aux biens assurés consécutives à un vol, une tentative de vol ou un acte de vandalisme.",
+            "conditions_activation": "Souscription de la Formule Initiale avec option Vol, Confort, Optimale ou Investisseur.",
+            "exclusions_specifiques": [
+                "Détériorations immobilières résultant d'un vol ou tentative de vol pour pénétrer le bâtiment assuré.",
+                "Détériorations ou destructions de biens assurés suite à vol, tentative de vol ou vandalisme commis par effraction extérieure, menaces ou violences.",
+                "Détériorations, destructions commises par les locataires ou occupants de l'immeuble.",
+                "Détériorations ou destructions de biens dissimulés dans les locaux à usage commun des occupants.",
+                "Détériorations, destructions consécutives au maintien des clés sur la porte suite à vol ou perte de clés (48h).",
+                "Détériorations dans dépendances ou locaux sans communication intérieure ou non fermés.",
+                "Détériorations dans caves, greniers, garages, celliers, locaux non communicants.",
+                "Détériorations dont l'auteur est l'assuré ou toute personne vivant habituellement avec lui.",
+                "Biens meubles précieux, miroirs, glaces, vitraux, aquariums, parois de douche, serres (sauf dispositions de la formule Optimale)."
+            ],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros HT",
+                    "conditions": "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, pour biens à usage professionnel"
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "",
+                    "conditions": "Se reporter au paragraphe « Indemnisation des dommages » page 33"
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Bris de glaces",
+            "description": "Couverture des bris de glaces pour les biens immobiliers ou meubles meublants.",
+            "conditions_activation": "Souscription de la Formule Optimale ou Investisseur.",
+            "exclusions_specifiques": [
+                "Produits verriers ou plastiques faisant partie de la menuiserie, fermeture ou décoration (e.g., vitrages, miroirs, parois de douche, dalles de sol, vérandas).",
+                "Biens meubles ou miroirs, vitraux d'inserts, aquariums, parois de douche, serres (si souscription formule Optimale)."
+            ],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "",
+                    "conditions": "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières"
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Attentats ou actes de terrorisme",
+            "description": "Couverture des dommages matériels directs et frais de décontamination/déblais, conformément aux articles L421-1 et L421-2 du Code pénal.",
+            "conditions_activation": "",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "bien mobilier non réparable",
+                    "montant": "30 000 euros TTC",
+                    "conditions": "pour la garantie des dommages matériels"
+                },
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros HT",
+                    "conditions": "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, pour biens à usage professionnel"
+                },
+                {
+                    "type": "Bâtiment (cours de tennis)",
+                    "montant": "3 000 euros TTC",
+                    "conditions": "Dommages aux cours de tennis. Autres dommages: se reporter au paragraphe « Indemnisation des dommages » page 33."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Catastrophes naturelles",
+            "description": "Couverture des dommages matériels directs suite à la publication d'un arrêté interministériel constatant l'état de catastrophe naturelle.",
+            "conditions_activation": "Publication d'un arrêté interministériel.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "bien mobilier non réparable",
+                    "montant": "30 000 euros TTC",
+                    "conditions": "pour la garantie des dommages matériels"
+                },
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros HT",
+                    "conditions": "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, pour biens à usage professionnel"
+                },
+                {
+                    "type": "Bâtiment (cours de tennis)",
+                    "montant": "3 000 euros TTC",
+                    "conditions": "Dommages aux cours de tennis. Autres dommages: se reporter au paragraphe « Indemnisation des dommages » page 33."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Incendie et événements assimilés",
+            "description": "Couverture des dommages causés par un incendie et les événements qui y sont assimilés.",
+            "conditions_activation": "",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros HT",
+                    "conditions": "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, pour biens à usage professionnel"
+                },
+                {
+                    "type": "Bâtiment (cours de tennis)",
+                    "montant": "3 000 euros TTC",
+                    "conditions": "Dommages aux cours de tennis. Autres dommages: se reporter au paragraphe « Indemnisation des dommages » page 33."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Dommages électriques",
+            "description": "Couverture des dommages électriques, y compris ceux aux congélateurs.",
+            "conditions_activation": "Applicable pour toutes les formules, et spécifiquement pour les formules Confort avec option et Optimale pour les dommages en congélateur.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "250 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Tempête, grêle, neige",
+            "description": "Couverture des dommages causés par la tempête, la grêle et la neige.",
+            "conditions_activation": "",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "250 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Dégâts des eaux et gel",
+            "description": "Couverture des dommages causés par les dégâts des eaux et le gel.",
+            "conditions_activation": "",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros HT",
+                    "conditions": "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, pour biens à usage professionnel"
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Vol",
+            "description": "Couverture des dommages résultant d'un vol.",
+            "conditions_activation": "Formules Initiale avec option Vol, Confort et Optimale.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Vol dans les dépendances",
+            "description": "Couverture des dommages résultant d'un vol dans les dépendances.",
+            "conditions_activation": "Formules Initiale avec option Vol, Confort et Optimale.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "1 600 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Vol sur le lieu de vacances",
+            "description": "Couverture des dommages résultant d'un vol sur le lieu de vacances.",
+            "conditions_activation": "Formules Confort et Optimale.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "5 000 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Vol d'éléments immobiliers",
+            "description": "Couverture des dommages résultant du vol d'éléments immobiliers.",
+            "conditions_activation": "Formules Initiale avec option Vol, Confort et Optimale.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "Sans objet",
+                    "conditions": ""
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "3 100 euros TTC",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Catastrophes technologiques",
+            "description": "Couverture des dommages résultant de catastrophes technologiques.",
+            "conditions_activation": "",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "Contenu de votre habitation",
+                    "montant": "",
+                    "conditions": "Se reporter au paragraphe « Modalités d'indemnisation spécifiques pour la garantie Catastrophes technologiques » page 33"
+                },
+                {
+                    "type": "Bâtiment",
+                    "montant": "",
+                    "conditions": "Se reporter au paragraphe « Modalités d'indemnisation spécifiques pour la garantie Catastrophes technologiques » page 33"
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "page": 11,
+                "titre": "Montants maximums des garanties"
+            }
+        },
+        {
+            "nom_garantie": "Pertes pécuniaires et frais complémentaires",
+            "description": "Garantie couvrant les pertes pécuniaires et frais complémentaires liés à un événement garanti (hors Catastrophes Naturelles ou Technologiques) et incluant la privation de jouissance et la formule Investisseur. Cette garantie couvre divers frais engagés à la suite d'un sinistre, tels que le transport et la réinstallation de meubles, le relogement temporaire, la perte de jouissance ou de loyer, les coûts d'installation provisoire, la valeur locative perdue, les travaux de mise en conformité et les honoraires liés aux études architecturales ou de coordination. Indemnisation pour l'impossibilité d'habiter le bien, jusqu'à 2 ans après le sinistre. Couverture des loyers du locataire pendant la période de réparation/reconstruction ou la non-location après travaux, pour une durée maximale de 2 ans.",
+            "conditions_activation": "Événement garanti (hors Catastrophes Naturelles et Technologiques). Souscription de la formule Initiale, Confort et Optimale. Impossibilité d'habiter le bien suite à un sinistre garanti. Souscription de la formule Investisseur. Immeuble non affecté à l'habitation ou après fin des travaux sans location.",
+            "exclusions_specifiques": [],
+            "plafonds": [
+                {
+                    "type": "durée d'indemnisation (privation de jouissance)",
+                    "montant": "2 ans",
+                    "conditions": "à compter du sinistre"
+                },
+                {
+                    "type": "durée de couverture des loyers (formule Investisseur)",
+                    "montant": "2 ans",
+                    "conditions": ""
+                },
+                {
+                    "type": "Frais de déblai et démolition",
+                    "montant": "8% de l'indemnité due",
+                    "conditions": "Limite de 8% de l'indemnité revenant pour le bâtiment et le contenu."
+                },
+                {
+                    "type": "Privation de jouissance, Pertes de loyer, Frais de relogement",
+                    "montant": "Valeur à dire d'expert",
+                    "conditions": "Dans la limite de 24 mois, pour la durée nécessaire à la remise en état des locaux, basée sur la valeur locative, les loyers du locataire ou les frais de relogement des locaux sinistrés."
+                },
+                {
+                    "type": "Frais de recherches de fuites",
+                    "montant": "1 600 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Frais de clôture provisoire",
+                    "montant": "800 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Autres frais complémentaires",
+                    "montant": "10% de l'indemnité du bâtiment et du contenu",
+                    "conditions": "Comprend les mesures de sauvetage, la décontamination suite à un attentat (locaux loués ou possédés, plafonné à la valeur économique du bâtiment), les honoraires d'architecte/coordinateur (max 5% de l'indemnité bâtiment), les frais de transport/garde-meubles/réinstallation et de mise en conformité."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "titre": "Montants maximums des Pertes pécuniaires et des Frais complémentaires",
+                "page": 12,
+                "headers": [
+                    "Poste d'indemnisation",
+                    "Montant d'indemnisation maximum"
+                ],
+                "rows": [
+                    [
+                        "Frais de déblai et démolition",
+                        "À concurrence des frais occasionnés dans la limite de 8% de l'indemnité vous revenant au titre du bâtiment et du contenu."
+                    ],
+                    [
+                        "Privation de jouissance\nPertes de loyer\nFrais de relogement",
+                        "Indemnisation en valeur à dire d'expert dans la limite de 24 mois,\npendant le temps nécessaire pour la remise en état des locaux sur la base :\n- de la valeur locative pour la privation de jouissance\n- ou du montant des loyers du locataire pour les pertes de loyer\n- des frais tels que calculés ci-dessus, pour les frais de relogement\ndes locaux sinistrés."
+                    ],
+                    [
+                        "Frais de recherches de fuites",
+                        "À concurrence des frais occasionnés dans la limite de 1 600 euros TTC."
+                    ],
+                    [
+                        "Frais de clôture provisoire",
+                        "À concurrence des frais occasionnés dans la limite de 800 euros TTC."
+                    ],
+                    [
+                        "Autres frais complémentaires",
+                        "10% du montant de l'indemnité du bâtiment et du contenu comprenant :\n- les mesures de sauvetage, de secours et de protection ;\n- les frais de décontamination à la suite d'attentat ou d'un acte de\nterrorisme des locaux loués ou des occasionnées et plafonnés à la valeur\néconomique du bâtiment assuré ;\n- les frais et honoraires de l'architecte, du conducteur et du coordinateur en\nmatière de sécurité, dans la limite de 5% de l'indemnité revenant au titre du\nbâtiment ;\n- les frais de transport, de garde meubles et de réinstallation de votre mobilier ;\n- les frais de mise en conformité."
+                    ]
+                ],
+                "notes_pied": []
+            }
+        },
+        {
+            "nom_garantie": "Dommages corporels des assurés",
+            "description": "Cette garantie, disponible avec la formule Optimale, couvre les dommages corporels subis par les assurés résidant habituellement dans le logement déclaré, y compris les membres de la famille et dépendants, suite à des événements imprévus non liés à une maladie ou une activité professionnelle. Les personnes non déclarées peuvent être couvertes sous certaines conditions.",
+            "conditions_activation": "Souscription de la formule Optimale. Être résident habituel du logement déclaré et approuvé, ou membre de la famille, conjoint, partenaire PACS, ascendants, descendants, ou autres personnes habitant habituellement la demeure.",
+            "exclusions_specifiques": [
+                "Dommages non résultant d'un accident, d'une maladie ou d'une activité professionnelle.",
+                "Dommages causés par un acte volontaire de l'assuré ou si son corps est volontairement mis en danger (sauf pour assistance).",
+                "Dommages résultant de maladies infectieuses, mentales, physiques ou psychiques.",
+                "Dommages avec une incapacité fonctionnelle permanente inférieure ou égale à 5%.",
+                "Dommages déjà indemnisés au titre d'une faute médicale.",
+                "Perte de gains pour un tiers résultant d'un dommage corporel à un assuré (ex: accident)."
+            ],
+            "plafonds": [
+                {
+                    "type": "Indemnisation globale par sinistre (une ou plusieurs personnes)",
+                    "montant": "80 000 euros",
+                    "conditions": "Non cumulable avec l'indemnisation d'un préjudice corporel dû à un même sinistre pour les effets temporaires ou permanents, ou les pertes de gains."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Responsabilité Civile Vie Privée",
+            "description": "Cette garantie, acquise avec une formule Optimale, couvre la responsabilité civile de l'assuré pour les dommages causés à autrui dans le cadre de sa vie privée. Elle s'applique aux résidents habituels du foyer (y compris conjoints, enfants, dépendants, ascendants, descendants) et aux enfants temporairement hors du domicile pour des études ou stages de moins de 3 mois. La garantie s'étend aux frais de défense et recours. Cette garantie est étendue pour les activités spécifiques listées si le pack est souscrit et détaillé dans les Conditions Particulières, couvrant notamment les marques, stores, carports, abris de jardin, préaux, pergolas, ameublements extérieurs, installations maçonnées extérieures, terrasses, toitures extérieures non maçonnées (bois, métal, PVC) situées à l'adresse du bâtiment d'habitation.",
+            "conditions_activation": "Souscription d'une formule Optimale. Être résident habituel du logement déclaré, conjoint, partenaire de PACS, enfants, ascendants, descendants, ou personnes à charge vivant au foyer. Enfants temporairement hors du domicile pour moins de 3 mois (études, stage).",
+            "exclusions_specifiques": [
+                "Activités professionnelles, commerciales ou artisanales.",
+                "Dommages causés aux biens, objets ou animaux appartenant à l'assuré.",
+                "Dommages aux biens que l'assuré possède, loue ou occupe, ou qui lui sont confiés ou gardés.",
+                "Dommages résultant de travaux de rénovation ou de construction non déclarés à l'assureur.",
+                "Dommages résultant du transport, de la transmission ou de la distribution de produits toxiques ou contaminants.",
+                "Dommages causés par l'ingestion d'aliments.",
+                "Dommages résultant de la pratique de sports de compétition, de jeux ou d'activités sportives professionnelles.",
+                "Dommages résultant d'erreurs administratives ou judiciaires.",
+                "Dommages causés par des animaux de plus de 75 kg (sauf chiens de garde).",
+                "Dommages résultant de la chasse, la pêche ou l'utilisation d'armes à feu.",
+                "La conduite d'un véhicule terrestre à moteur à l'insu de son propriétaire ou du gardien, y compris la responsabilité civile vis-à-vis des passagers et des tiers."
+            ],
+            "plafonds": [
+                {
+                    "type": "Dommages matériels",
+                    "montant": "2 000 000 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Dommages immatériels et corporels",
+                    "montant": "500 000 euros TTC",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [
+                {
+                    "type": "Franchise par sinistre",
+                    "montant": "Montant dans les Conditions Particulières",
+                    "conditions": ""
+                }
+            ],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Responsabilité Civile Locative ou de Propriétaire",
+            "description": "Cette garantie couvre la responsabilité de l'assuré pour les dommages causés aux tiers, aux visiteurs, aux voisins et à leurs biens, ainsi qu'aux monuments historiques, en tant que locataire ou propriétaire du logement. Elle s'applique également aux dommages aux biens de l'assuré en cas de sinistre ne permettant pas une réparation immédiate ou pour les monuments historiques. Elle est disponible avec les formules Confort et Optimale.",
+            "conditions_activation": "Être l'assuré ou le propriétaire du bâtiment assuré. Disponible avec les formules Confort et Optimale. S'applique aussi pour l'occupation d'un logement meublé sans déclaration spécifique si l'occupant est le propriétaire réel.",
+            "exclusions_specifiques": [
+                "Dommages aux biens du preneur d'assurance, du cohabitant, ou du propriétaire, sauf si l'assuré en est responsable.",
+                "Dommages aux personnes résidant au foyer (conjoint, cohabitants, dépendants), visiteurs ou préposés.",
+                "Dommages pour lesquels l'assuré est responsable en tant que gardien d'animaux, de choses, ou pour des travaux exécutés.",
+                "Dommages causés par incendie, explosion, dégât des eaux sur des immeubles non déclarés.",
+                "Dommages résultant de travaux de rénovation ou de construction non déclarés."
+            ],
+            "plafonds": [
+                {
+                    "type": "Dommages matériels",
+                    "montant": "250 000 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Pertes pécuniaires consécutives",
+                    "montant": "155 000 euros TTC",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [
+                {
+                    "type": "Franchise pour responsabilité des dommages aux biens loués",
+                    "montant": "3 000 euros TTC",
+                    "conditions": ""
+                }
+            ],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Honoraires d'avocat",
+            "description": "Prise en charge des honoraires d'un avocat pour les procédures et prestations juridiques listées, incluant les frais de gestion habituels (téléphonie, déplacement).",
+            "conditions_activation": "Concerne les actions en justice ou démarches amiables selon les barèmes applicables aux juridictions françaises ou hors juridictions françaises.",
+            "exclusions_specifiques": [
+                "Frais d'expertise pour vérification du préjudice réel.",
+                "Coûts des enquêtes pour identification ou recherche de l'adversaire.",
+                "Frais de constats d'huissier.",
+                "Sommes mises à la charge de l'assuré (principal et accessoires) par décision de justice ou transaction.",
+                "Frais et amendes, ainsi que les dépenses avancées par le contradicteur.",
+                "Frais de déplacement et de postulation d'un avocat non inscrit au barreau du tribunal saisi.",
+                "Frais engagés sans accord écrit préalable de l'assureur, sauf urgence avérée.",
+                "Honoraires de consultation en dehors des situations relevant de l'arbitrage.",
+                "Honoraires de résultat.",
+                "Frais de médiation.",
+                "Litiges de Responsabilité Civile couverts par un contrat d'assurance obligatoire, sauf en cas de conflit d'intérêts où la garantie intervient.",
+                "Litiges dont le fait générateur est survenu avant la prise d'effet du contrat, après la résiliation, ou pendant une période de suspension des garanties.",
+                "Litiges dont le fait générateur a une origine contractuelle.",
+                "Litiges impliquant un véhicule terrestre à moteur soumis à obligation d'assurance, sauf si l'assuré est piéton ou transporté par un véhicule à 2 ou 3 roues non soumis à assurance.",
+                "Litiges liés aux problèmes de mitoyenneté, bornage, ou voisinage.",
+                "Recours suite à des erreurs médicales.",
+                "Litiges impliquant Soussour ou les sociétés du Groupe Société Générale.",
+                "Litiges mettant en cause une assurance de responsabilité civile professionnelle.",
+                "Défense pénale pour des faits ou situations exclus par les 'Exclusions communes' (voir page 30)."
+            ],
+            "plafonds": [
+                {
+                    "type": "Par prestation",
+                    "montant": "Variable",
+                    "conditions": "Selon le barème détaillé dans le tableau associé, en fonction de la juridiction et du type de prestation."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": {
+                "titre": "Barème des honoraires d'avocat (Juridictions Françaises)",
+                "page": 15,
+                "headers": [
+                    "Type de prestation (Juridictions Françaises)",
+                    "Montant TTC"
+                ],
+                "rows": [
+                    [
+                        "Médiation, Conciliation",
+                        "350 €"
+                    ],
+                    [
+                        "Avis d'une tierce personne",
+                        "350 €"
+                    ],
+                    [
+                        "Arbitrage",
+                        "450 €"
+                    ],
+                    [
+                        "Assistance à expertise",
+                        "480 €"
+                    ],
+                    [
+                        "Référé, Requête, Ordonnance de mise en état",
+                        "750 €"
+                    ],
+                    [
+                        "Conflit",
+                        "350 €"
+                    ],
+                    [
+                        "Obtention du dossier pénal",
+                        "65 €"
+                    ],
+                    [
+                        "Assistance à mesure d'instruction",
+                        "240 €"
+                    ],
+                    [
+                        "Assistance en cas de confrontation avec une personne gardée à vue",
+                        "240 €"
+                    ],
+                    [
+                        "Constitution de partie civile",
+                        "120 €"
+                    ],
+                    [
+                        "Tribunal de police",
+                        "600 €"
+                    ],
+                    [
+                        "Tribunal correctionnel",
+                        "750 €"
+                    ],
+                    [
+                        "SAPCJ",
+                        "300 €"
+                    ],
+                    [
+                        "CIVI",
+                        "300 €"
+                    ],
+                    [
+                        "CRCI",
+                        "600 €"
+                    ],
+                    [
+                        "Autres commissions",
+                        "450 €"
+                    ],
+                    [
+                        "Tribunal Judiciaire (y compris chambre de proximité) lorsque le montant de la demande (en principal) est inférieur ou égal à 10 000 euros",
+                        "650 €"
+                    ],
+                    [
+                        "Tribunal Judiciaire (y compris chambre de proximité) lorsque le montant de la demande (en principal) est supérieur à 10 000 euros",
+                        "900 €"
+                    ],
+                    [
+                        "Tribunal Administratif",
+                        ""
+                    ],
+                    [
+                        "Tribunal de Commerce",
+                        ""
+                    ],
+                    [
+                        "Cour d'Appel",
+                        "1 100 €"
+                    ],
+                    [
+                        "Cour de Cassation Conseil d'État",
+                        "1 305 €"
+                    ]
+                ],
+                "notes_pied": []
+            }
+        },
+        {
+            "nom_garantie": "Dommages communs",
+            "description": "Remboursement des frais de dédommagement, de déblayage et d'enlèvement d'arbres situés dans l'enceinte de la propriété, à moins de 50 mètres des bâtiments assurés.",
+            "conditions_activation": "Dommages causés par un événement, une tempête, la grêle, une catastrophe naturelle ou technologique.",
+            "exclusions_specifiques": [
+                "Feux, bobinages, fonte gonflable et couverture en verre ordinaire.",
+                "Vol et actes de vandalisme.",
+                "Dégâts d'eau.",
+                "Piscines à usage autre que privatif.",
+                "Exclusions communes mentionnées à la page 30."
+            ],
+            "plafonds": [
+                {
+                    "type": "Annuel sur biens mobiliers",
+                    "montant": "12% TTC",
+                    "conditions": "Avec un maximum de 80% de la valeur des biens."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Pack Loisirs",
+            "description": "Couverture des dommages aux instruments de musique (propriétaires ou loués via conservatoire, école, magasin), bicyclettes, Vélos à Assistance Électrique (VAE) et matériels de sport appartenant à l'Assuré.",
+            "conditions_activation": "Dommages causés par un accident ou un vol, ou des cas spécifiques.",
+            "exclusions_specifiques": [
+                "Accidents à plus de 2,40 m de hauteur.",
+                "Serres et abris de jardin non conformes aux règles de l'art.",
+                "Dommages aux matériels de chauffage, de fonctionnement et aux cultures des serres.",
+                "Dommages aux éléments non fixés dans les règles de l'art.",
+                "Dommages aux serres utilisées pour des activités professionnelles.",
+                "Dommages aux clôtures végétales.",
+                "Disparition suite à un prêt à un tiers.",
+                "Vol des accessoires des bicyclettes et VAE.",
+                "Vol de bicyclettes ou VAE non attachés à un point fixe (y compris en local collectif).",
+                "Vol des batteries seules des VAE.",
+                "Dommages survenant lorsque le matériel est confié à un professionnel pour entretien ou réparation.",
+                "Dommages aux biens utilisés à titre professionnel ou moyennant rémunération.",
+                "Dommages résultant de l'usure normale, d'un vice caché, des variations de température ou d'hydrométrie.",
+                "Dommages ou vol des accessoires de motorisation.",
+                "Éraflures ou défaut d'aspect des biens assurés.",
+                "Dommages ou vol n'affectant que les cordes, peaux, futs, pédales, crins, archets, clés et tampons de cordes, ainsi que les étuis, boîtiers, sacoches, housses renfermant l'instrument."
+            ],
+            "plafonds": [
+                {
+                    "type": "Dommages matériels",
+                    "montant": "600 € TTC",
+                    "conditions": "Par sinistre et par an, sous réserve de non-utilisation dans les 12 mois précédents."
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Pack Environnement",
+            "description": "Couverture des dommages aux installations environnementales situées à l'adresse du bâtiment d'habitation, notamment les panneaux solaires, photovoltaïques, installations de géothermie, éoliennes, pompes à chaleur et récupérateurs d'eau de pluie.",
+            "conditions_activation": "Dommages causés par un incendie, événements assimilés, bris de glace, tempête, grêle, catastrophe naturelle ou technologique.",
+            "exclusions_specifiques": [
+                "Dommages résultant d'un vice caché ou de construction.",
+                "Exclusions communes mentionnées à la page 30."
+            ],
+            "plafonds": [
+                {
+                    "type": "Annuel",
+                    "montant": "50 000 € TTC",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Location chambres d'hôtes",
+            "description": "Couverture des chambres d'hôtes situées dans la résidence principale de l'Assuré (limitée à 5 chambres maximum).",
+            "conditions_activation": "Applicable pour toute personne louant une des chambres d'hôtes de l'Assuré.",
+            "exclusions_specifiques": [],
+            "plafonds": [],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Dommages accidentels aux biens des locataires",
+            "description": "Couverture des dommages accidentels causés aux biens des locataires, incluant ceux résultant d'une inondation liée à des repas ou boissons servis à des hôtes.",
+            "conditions_activation": "",
+            "exclusions_specifiques": [
+                "Dommages accidentels causés aux objets de valeur des locataires.",
+                "Dommages aux véhicules terrestres à moteur des locataires et à leur contenu."
+            ],
+            "plafonds": [
+                {
+                    "type": "Matériels",
+                    "montant": "5 000 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Corporels",
+                    "montant": "4 575 000 euros TTC",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Détention de chevaux, ânes ou poneys",
+            "description": "Couvre la responsabilité civile du propriétaire pour les dommages que ces animaux causent à des tiers, à condition que l'animal soit pour un usage privé et non professionnel.",
+            "conditions_activation": "Le souscripteur est propriétaire des animaux pour un usage exclusivement privé.",
+            "exclusions_specifiques": [
+                "Les dommages causés par ces animaux lors de leur pratique par des tiers.",
+                "Les dommages corporels."
+            ],
+            "plafonds": [
+                {
+                    "type": "Dommages matériels ou corporels (tiers)",
+                    "montant": "250 000 euros TTC",
+                    "conditions": "si les dommages sont causés par l'assuré"
+                },
+                {
+                    "type": "Dommages corporels (tiers)",
+                    "montant": "4 575 000 euros TTC",
+                    "conditions": "si les dommages sont causés par un tiers"
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        },
+        {
+            "nom_garantie": "Activité d'assistante maternelle",
+            "description": "Couvre la responsabilité civile professionnelle de l'assuré ou d'une personne assurée exerçant en tant qu'assistante maternelle agréée, pour les dommages causés aux enfants gardés.",
+            "conditions_activation": "L'assuré ou une personne couverte exerce en tant qu'assistante maternelle agréée par la législation en vigueur pour 4 enfants maximum.",
+            "exclusions_specifiques": [
+                "Dommages causés par des fautes intentionnelles de l'assuré ou par une mauvaise gestion de l'activité.",
+                "Toute autre activité professionnelle de garde d'enfants non spécifiquement d'assistante maternelle."
+            ],
+            "plafonds": [
+                {
+                    "type": "Dommages matériels",
+                    "montant": "250 000 euros TTC",
+                    "conditions": ""
+                },
+                {
+                    "type": "Corporels",
+                    "montant": "4 575 000 euros TTC",
+                    "conditions": ""
+                }
+            ],
+            "franchises": [],
+            "tableau_associe": null
+        }
+    ],
+    "exclusions_generales": [
+        "Dommages subis par le propriétaire de l'habitation ou les personnes y vivant, le cavalier ou le conducteur de l'attelage.",
+        "Dommages survenant en cours ou à l'occasion de poursuites ou compétitions.",
+        "Dommages provoqués par un cheval monté par un cavalier de moins de 18 ans non accoutumé d'un adulte.",
+        "Responsabilité encourue en qualité de loueur de chevaux.",
+        "Dommages liés à la construction, la rénovation ou l'ouvrage.",
+        "Dommages relevant de l'assurance Dommages ouvrage.",
+        "Dommages causés par une guerre étrangère ou civile.",
+        "Dommages causés par catastrophes naturelles (phénomènes volcaniques, action de la mer, glissements de terrain, etc.) sauf si l'événement est officiellement déclaré comme tel.",
+        "Dommages liés à la désintégration nucléaire, radioactivité, transmutation d'atomes, sauf ceux causés aux biens par attentat ou acte de terrorisme.",
+        "Dommages causés ou aggravés par une maladie transmissible, épidémie, pandémie ou un retard les rendant irréalisables.",
+        "Défaut ou fausse déclaration de bonne foi ou omission de faits importants par l'assuré.",
+        "Pertes pécuniaires résultant de l'application d'une franchise, d'une règle proportionnelle de cotisation, ou d'une insuffisance de garantie.",
+        "Honoraires d'expert ou frais d'établissement de devis liés aux opérations d'expertise pour le compte de l'assuré.",
+        "Dommages résultant d'un défaut d'installation des matériels électroniques (Hi-Fi, vidéo, informatique).",
+        "Dommages aux données (supports, perte, vol, transmission, traitement, intégrité, confidentialité) et leurs conséquences immatérielles.",
+        "Frais de démolition et désamiantage, sauf s'ils relèvent de la garantie Catastrophes Technologiques ou des frais de décontamination couverts par la garantie attentat et acte de terrorisme."
+    ],
+    "tableaux_reconstruits": [
+        {
+            "titre": "Montants maximums des garanties",
+            "page": 11,
+            "headers": [
+                "Événement",
+                "Contenu de votre habitation",
+                "Bâtiment"
+            ],
+            "rows": [
+                [
+                    "Incendie et événements assimilés",
+                    "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, dont 1 600 euros HT de biens à usage professionnel",
+                    "Dommages aux cours de tennis : 3 000 euros TTC - Autres dommages : se reporter au paragraphe « Indemnisation des dommages » page 33"
+                ],
+                [
+                    "Dommages électriques",
+                    "250 euros TTC",
+                    "Sans objet"
+                ],
+                [
+                    "Dommages électriques (formules Confort avec option et Optimale) dont dommages en congélateur",
+                    "250 euros TTC",
+                    "Sans objet"
+                ],
+                [
+                    "Tempête, grêle, neige",
+                    "250 euros TTC",
+                    "Sans objet"
+                ],
+                [
+                    "Dégâts des eaux et gel",
+                    "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, dont 1 600 euros HT de biens à usage professionnel",
+                    "Sans objet"
+                ],
+                [
+                    "Vol (formules Initiale avec option Vol, Confort et Optimale)",
+                    "1 600 euros TTC",
+                    "Sans objet"
+                ],
+                [
+                    "Vol dans les dépendances (formules Initiale avec option Vol, Confort et Optimale)",
+                    "1 600 euros TTC",
+                    "Sans objet"
+                ],
+                [
+                    "Vol sur le lieu de vacances (Formules Confort et Optimale)",
+                    "5 000 euros TTC",
+                    "Sans objet"
+                ],
+                [
+                    "Vol d'éléments immobiliers (formules Initiale avec option Vol, Confort et Optimale)",
+                    "Sans objet",
+                    "3 100 euros TTC"
+                ],
+                [
+                    "Détériorations suite à vol (formules Initiale avec option Vol, Confort, Optimale, et Investisseur)",
+                    "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, dont 1 600 euros HT de biens à usage professionnel",
+                    "Se reporter au paragraphe « Indemnisation des dommages » page 33"
+                ],
+                [
+                    "Bris de glaces (formules Confort, Optimale et Investisseur) et Bris de glaces sur les meubles meublants (formule Optimale)",
+                    "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières",
+                    "Sans objet"
+                ],
+                [
+                    "Attentats ou actes de terrorisme",
+                    "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, dont 1 600 euros HT de biens à usage professionnel",
+                    "Dommages aux cours de tennis : 3 000 euros TTC - Autres dommages : se reporter au paragraphe « Indemnisation des dommages » page 33"
+                ],
+                [
+                    "Catastrophes naturelles",
+                    "À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, dont 1 600 euros HT de biens à usage professionnel",
+                    "Dommages aux cours de tennis : 3 000 euros TTC - Autres dommages : se reporter au paragraphe « Indemnisation des dommages » page 33"
+                ],
+                [
+                    "Catastrophes technologiques",
+                    "Se reporter au paragraphe « Modalités d'indemnisation spécifiques pour la garantie Catastrophes technologiques » page 33",
+                    "Se reporter au paragraphe « Modalités d'indemnisation spécifiques pour la garantie Catastrophes technologiques » page 33"
+                ]
+            ],
+            "notes_pied": [
+                "Contenu de votre habitation: À concurrence des plafonds de capitaux prévus dans vos Conditions Particulières, dont 1 600 euros HT de biens à usage professionnel.",
+                "Bâtiment: Dommages aux cours de tennis : 3 000 euros TTC. Autres dommages : se reporter au paragraphe « Indemnisation des dommages » page 33."
+            ]
+        },
+        {
+            "titre": "Barème des honoraires d'avocat (Juridictions Françaises)",
+            "page": 15,
+            "headers": [
+                "Type de prestation (Juridictions Françaises)",
+                "Montant TTC"
+            ],
+            "rows": [
+                [
+                    "Médiation, Conciliation",
+                    "350 €"
+                ],
+                [
+                    "Avis d'une tierce personne",
+                    "350 €"
+                ],
+                [
+                    "Arbitrage",
+                    "450 €"
+                ],
+                [
+                    "Assistance à expertise",
+                    "480 €"
+                ],
+                [
+                    "Référé, Requête, Ordonnance de mise en état",
+                    "750 €"
+                ],
+                [
+                    "Conflit",
+                    "350 €"
+                ],
+                [
+                    "Obtention du dossier pénal",
+                    "65 €"
+                ],
+                [
+                    "Assistance à mesure d'instruction",
+                    "240 €"
+                ],
+                [
+                    "Assistance en cas de confrontation avec une personne gardée à vue",
+                    "240 €"
+                ],
+                [
+                    "Constitution de partie civile",
+                    "120 €"
+                ],
+                [
+                    "Tribunal de police",
+                    "600 €"
+                ],
+                [
+                    "Tribunal correctionnel",
+                    "750 €"
+                ],
+                [
+                    "SAPCJ",
+                    "300 €"
+                ],
+                [
+                    "CIVI",
+                    "300 €"
+                ],
+                [
+                    "CRCI",
+                    "600 €"
+                ],
+                [
+                    "Autres commissions",
+                    "450 €"
+                ],
+                [
+                    "Tribunal Judiciaire (y compris chambre de proximité) lorsque le montant de la demande (en principal) est inférieur ou égal à 10 000 euros",
+                    "650 €"
+                ],
+                [
+                    "Tribunal Judiciaire (y compris chambre de proximité) lorsque le montant de la demande (en principal) est supérieur à 10 000 euros",
+                    "900 €"
+                ],
+                [
+                    "Tribunal Administratif",
+                    ""
+                ],
+                [
+                    "Tribunal de Commerce",
+                    ""
+                ],
+                [
+                    "Cour d'Appel",
+                    "1 100 €"
+                ],
+                [
+                    "Cour de Cassation Conseil d'État",
+                    "1 305 €"
+                ]
+            ],
+            "notes_pied": []
+        },
+        {
+            "titre": "Pour les garanties autres que la garantie Dommages électriques",
+            "page": 19,
+            "headers": [
+                "Catégorie de Bien",
+                "Âge du bien",
+                "Formules Initiale et Confort",
+                "Formule Confort avec option Dommages électriques valeur à neuf",
+                "Formule Optimale"
+            ],
+            "rows": [
+                [
+                    "Informatique Hi-Fi Vidéo Electroménager",
+                    "Moins de 2 ans",
+                    "Valeur de remplacement vétusté déduite",
+                    "70% de la valeur de remplacement à neuf",
+                    "Valeur de remplacement à neuf"
+                ],
+                [
+                    "",
+                    "De 2 à 4 ans",
+                    "70% de la valeur de remplacement à neuf",
+                    "50% de la valeur de remplacement à neuf",
+                    "Valeur de remplacement à neuf"
+                ],
+                [
+                    "",
+                    "De 4 à 6 ans",
+                    "50% de la valeur de remplacement à neuf",
+                    "30% de la valeur de remplacement à neuf",
+                    "Valeur de remplacement à neuf"
+                ],
+                [
+                    "",
+                    "De 6 à 10 ans",
+                    "30% de la valeur de remplacement à neuf",
+                    "10% de la valeur de remplacement à neuf",
+                    "Valeur de remplacement à neuf"
+                ],
+                [
+                    "",
+                    "Supérieur à 10 ans",
+                    "10% de la valeur de remplacement à neuf",
+                    "10% de la valeur de remplacement à neuf",
+                    "Valeur de remplacement à neuf"
+                ],
+                [
+                    "Autres biens",
+                    "Moins de 6 ans",
+                    "Valeur de remplacement vétusté déduite",
+                    "Valeur de remplacement vétusté déduite",
+                    "Valeur de remplacement vétusté déduite"
+                ],
+                [
+                    "",
+                    "Supérieur à 6 ans",
+                    "10% de la valeur de remplacement à neuf",
+                    "10% de la valeur de remplacement à neuf",
+                    "Valeur de remplacement vétusté déduite"
+                ]
+            ],
+            "notes_pied": []
+        }
+    ],
+    "images_detectees": [
+        {
+            "page": 1,
+            "type": "logo",
+            "description": "SOCIETE GENERALE Assurances logo"
+        }
+    ]
+}

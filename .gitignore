@@ -109,5 +109,5 @@ Thumbs.db
 
 # Project specific
 #backup_*.json
-debug_*.png
+#debug_*.png
 #extraction_*.json

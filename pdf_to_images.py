@@ -5,7 +5,7 @@ Converts PDF pages to PNG images using PyMuPDF
 """
 
 import os
-import fitz  # PyMuPDF
+import fitz  
 from PIL import Image
 import io
 from pathlib import Path
